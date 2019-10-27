@@ -11,4 +11,4 @@ script: echo "Za3bola"
 
 branches: 
         only:
-        -dev
+        - dev
