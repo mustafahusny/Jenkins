@@ -8,3 +8,7 @@ cache:
 install : npm install
 
 script: echo "Za3bola"
+
+branches: 
+        only:
+        -dev
